@@ -7,6 +7,7 @@
 | [0183-customers-who-never-order](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/0595-big-countries) |
+| [1179-game-play-analysis-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1258-article-views-i) |
 | [1670-patients-with-a-condition](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1811-fix-names-in-a-table) |
