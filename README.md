@@ -11,6 +11,7 @@
 | [0596-classes-more-than-5-students](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/0596-classes-more-than-5-students) |
 | [1179-game-play-analysis-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1258-article-views-i) |
+| [1625-group-sold-products-by-the-date](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1827-invalid-tweets) |
