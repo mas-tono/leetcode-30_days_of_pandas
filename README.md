@@ -18,6 +18,7 @@
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1258-article-views-i) |
+| [1291-immediate-food-delivery-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1291-immediate-food-delivery-i) |
 | [1415-students-and-examinations](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1625-group-sold-products-by-the-date) |
