@@ -20,6 +20,7 @@
 | [1258-article-views-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1258-article-views-i) |
 | [1291-immediate-food-delivery-i](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1291-immediate-food-delivery-i) |
 | [1415-students-and-examinations](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1415-students-and-examinations) |
+| [1453-ads-performance](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1453-ads-performance) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/1664-find-users-with-valid-e-mails) |
