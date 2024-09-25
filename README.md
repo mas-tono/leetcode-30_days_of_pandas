@@ -36,4 +36,5 @@
 | [2185-accepted-candidates-from-the-interviews](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/2185-accepted-candidates-from-the-interviews) |
 | [2223-the-number-of-rich-customers](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/2223-the-number-of-rich-customers) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [2885-count-occurrences-in-text](https://github.com/mas-tono/leetcode-30_days_of_pandas/tree/master/2885-count-occurrences-in-text) |
 <!---LeetCode Topics End-->
