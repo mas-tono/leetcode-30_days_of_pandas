@@ -1,6 +1,6 @@
 #1. clean all leading and trailing whitespaces -> trim
-#2. the requirement stated 'standalone word' -> bull/bear at beginning and end doesn't count -> find, rfind
-#3. use r'\bbear\b' r'\bbull\b' to do the task
+#2. the requirement stated 'standalone word' -> bull/bear at beginning and end doesn't count -> so we use find, rfind to use string after first space and before last space (excluding first word and last word)
+#3. use r'\bbear\b' r'\bbull\b' to do the main task
 
 import pandas as pd
 
