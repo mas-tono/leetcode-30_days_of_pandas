@@ -1,4 +1,4 @@
-#1. clear all leading and trailing whitespaces -> trim
+#1. clear all leading and trailing whitespaces -> .str.strip
 #2. the requirement stated 'standalone word' -> bull/bear at beginning and end doesn't count -> so we use find, rfind to use string after first space and before last space (excluding first word and last word)
 #3. use r'\bbear\b' r'\bbull\b' to do the main task
 
